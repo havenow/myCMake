@@ -1,4 +1,4 @@
-export ANDOIRD_NDK=/Users/wangfeng9/Documents/NDK
+export ANDOIRD_NDK=/Users/wangfeng/Documents/NDK
 export BUILD_ABI=build
 
 rm -r $BUILD_ABI
